@@ -13,7 +13,7 @@ An AI-powered interview simulation tool that asks technical and HR questions, ev
 
 ### 1️⃣ Clone the repository
 
-- git clone https://github.com/CartoonSketch987/ai-interview-bot.git
+- git clone https://github.com/akash-pandit04/ai-interview-bot.git
 
 ### 2️⃣ Create and activate virtual environment
 
